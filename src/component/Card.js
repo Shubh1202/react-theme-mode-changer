@@ -2,7 +2,7 @@ const Card = () => {
     return (
         <div className="relative flex flex-col bg-white dark:bg-gray-900 shadow-sm border border-slate-200 dark:border-gray-700 rounded-lg w-96">
             <div className="relative h-56 m-2.5 overflow-hidden text-white rounded-md">
-                <img src="https://images.unsplash.com/photo-1540553016722-983e48a2cd10?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80"
+                <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yz9NQDKM-fPqnjPPJC7Tdg.png"
                     alt="card-image" />
             </div>
             <div className="p-4">
