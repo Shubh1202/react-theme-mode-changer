@@ -1,6 +1,8 @@
 
 # Getting Started with Create React App
 
+This repository demonstrates how to use React's Context API to implement a theme mode switcher (e.g., light and dark mode).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
